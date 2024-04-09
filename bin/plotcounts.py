@@ -18,7 +18,7 @@ def get_power_law_params(word_counts):
 
     References 
     ---------- 
-    Moreno-Sanchez et al (2006) define alpha (Eq. 1), 
+    Moreno-Sanchez et al (2016) define alpha (Eq. 1), 
       beta (Eq. 2) and the maximum likelihood estimation (mle) 
       of beta (Eq. 6) 
 
