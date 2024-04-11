@@ -4,7 +4,7 @@ import argparse
 
 import numpy as np
 import pandas as pd 
-import matplotlib 
+import matplotlib
 from scipy.optimize import minimize_scalar 
 
 def nlog_likelihood(beta, counts): 
